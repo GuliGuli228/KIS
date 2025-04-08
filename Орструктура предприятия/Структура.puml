@@ -1,0 +1,30 @@
+@startuml
+left to right direction
+
+skinparam nodesep 10
+skinparam ranksep 50
+
+rectangle "Генеральный отдел" as gen_dep {
+    rectangle "IT-отдел" as it_dep {
+        rectangle "Начальник IT-отдела" as it_head
+
+        rectangle "Отдел по управлению кибербезопасностью компании" as cyber_security_dep {
+            rectangle "Начальник отдела по кибербезопасности компании" as security_head
+            rectangle "Системные администраторы и менеджеры,\nспециализирующиеся на кибербезопасности\nсерверов и КИС" as security_admins
+        }
+
+        rectangle "Отдел по управлению сетью, серверами\nи базами данных компании" as network_dep {
+            rectangle "Аналитики, менеджеры, инноваторы" as analysts
+        }
+    }
+
+    rectangle "Отдел по управлению производством\nалкогольной продукции" as alcohol_prod_dep
+    rectangle "Отдел по управлению внутренними\nбизнес-процессами компании" as internal_process_dep
+    rectangle "Отдел по управлению внешними\nбизнес-процессами компании" as external_process_dep
+}
+
+it_head --> security_head
+it_head --> analysts
+security_head --> security_admins
+
+@enduml
