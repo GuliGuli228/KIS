@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Страница — 1" id="hfVqDPzBSBcwpmPaVwD5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DCt1kAcfbdybaFFYm2ic-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-1" target="DCt1kAcfbdybaFFYm2ic-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DCt1kAcfbdybaFFYm2ic-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DCt1kAcfbdybaFFYm2ic-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-1" value="Генеральный отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-2" value="Отдел по управлению производством алкогольной продукции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="150" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-4" value="Отдел по управлению внутренними бизнес-процессами компании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-6" target="DCt1kAcfbdybaFFYm2ic-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-6" target="DCt1kAcfbdybaFFYm2ic-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-6" value="IT-отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-10" value="Отдел по управлению внешними бизнес-процессами компании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-14" value="Отдел по управлению кибербезопасностью компании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-15" value="Отдел по управлению сетью,&amp;nbsp; серверами и базами данных компании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-22" target="DCt1kAcfbdybaFFYm2ic-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-22" value="Начальник отдела по кибербезопасности компании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-25" value="Системные администраторы и менеджеры, специализирующиеся на кибербезопасности серверов и КИС&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-27" target="DCt1kAcfbdybaFFYm2ic-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DCt1kAcfbdybaFFYm2ic-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="440" />
+              <mxPoint x="580" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCt1kAcfbdybaFFYm2ic-27" target="DCt1kAcfbdybaFFYm2ic-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-27" value="Начальник IT - отдела" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-28" value="Аналитики, менеджеры, инноваторы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-29" value="Сис. инженеры и сис.админы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-35" value="Отдел по управлению сетью,&amp;nbsp; серверами и базами данных компании" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="540" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="180" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DCt1kAcfbdybaFFYm2ic-38" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Отдел по управлению кибербезопасностью компании&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="670" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
