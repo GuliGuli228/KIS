@@ -29,10 +29,15 @@ ERP (Enterprise Resource Planning) — это система планирова�
 ## ERP-стандарты для алкогольного производства ZR Group
 
 **Производство:** MRP &rarr; MRP2 &rarr; CSRP &rarr; MES
+
 **Логистика:** WMS, SCM, TMS
+
 **Управление персоналом:** HRM, Talent Manager, Time & Attendance
+
 **Финансы:** FI, Payroll, AP/AR
+
 **Аналитика:** BI, KPI Dashboard 
+
 **Дополнительно:** DMS, QMS, PLM, CRM
 
 
