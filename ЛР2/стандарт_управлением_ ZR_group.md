@@ -25,7 +25,8 @@ ERP (Enterprise Resource Planning) — это система планирова�
 - Управление заказами от магазинов.
 
 
-![alt-Erpиситема](https://github.com/GuliGuli228/KIS/blob/main/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5%D0%BC/images/Slide2.png)
+![alt- Erpиситема](https://is1c.ru/upload/medialibrary/1f6/0up6cejhms0boeup93x2xo508cjxuu8b.png)
+
 ## ERP-стандарты для алкогольного производства ZR Group
 
 **Производство:** MRP &rarr; MRP2 &rarr; CSRP &rarr; MES
